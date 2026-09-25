@@ -1,0 +1,2 @@
+# Encore
+Music streaming app
