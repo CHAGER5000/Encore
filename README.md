@@ -43,7 +43,7 @@ visible) and a library for searching and for your saved playlists.
 
 ## Setup
 
-1. **Open it:** https://chager5000.github.io/encore/
+1. **Open it:** https://chager5000.github.io/Encore/
 2. **Add a YouTube API key** (free, needed for search and playlist import):
    in the [Google Cloud console](https://console.cloud.google.com/apis/library/youtube.googleapis.com)
    create a project, enable **YouTube Data API v3**, then go to
